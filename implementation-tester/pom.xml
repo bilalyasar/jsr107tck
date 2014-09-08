@@ -22,9 +22,9 @@
 
     <modules>
         <module>specific-implementation-tester</module>
-        <module>cdi-annotations-tester</module>
-        <module>spring-annotations-tester</module>
-        <module>guice-annotations-tester</module>
+        <!--<module>cdi-annotations-tester</module>-->
+        <!--<module>spring-annotations-tester</module>-->
+        <!--<module>guice-annotations-tester</module>-->
     </modules>
 
 
